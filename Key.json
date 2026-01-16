@@ -5,8 +5,8 @@
     "timezone": "Asia/Kolkata",
     "broadcastEnabled": false,
     "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
-    "adminUrl": "https://t.me/DPMods",
-    "tgBotToken": "8186081322:csvH88KOO3ZBaMbGFB4PMTKvYobAYM",
+    "adminUrl": "https://t.me/hanzzyreal",
+    "tgBotToken": "8216271427:AAHQvTW-xyHMTIa-GMCQBMpilA8cwIT0tUE",
     "tgChatId": "-10028934579684"
   },
   "security": {
@@ -148,4 +148,5 @@
       "toast": "Today Key"
     }
   }
+
 }
